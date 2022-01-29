@@ -1,6 +1,6 @@
 # DownTheBock
 
-An (Ethermine)[https://ethermine.org] monitoring application. 
+An [Ethermine](https://ethermine.org) monitoring application. 
 
 Privacy Policy
 
